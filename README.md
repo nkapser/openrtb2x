@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nkapser/openrtb2x.svg?branch=develop)](https://travis-ci.org/nkapser/openrtb2x)
+
 # Implementation Purpose
 This project is focused on supplying a reference implementation,
 both for supply-side and demand-side platforms, of the offline
